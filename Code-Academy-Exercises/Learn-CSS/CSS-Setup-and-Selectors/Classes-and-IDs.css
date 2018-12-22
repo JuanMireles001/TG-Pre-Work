@@ -1,0 +1,28 @@
+p {
+     font-family: Arial;
+
+   }
+
+h1{
+ color: maroon;
+
+}
+
+.title{
+ color: blue;
+
+}
+.uppercase{
+ text-transform: uppercase;
+}
+
+#article-title{
+ font-family: cursive;
+ text-transform: capitalize;
+}
+
+.publish-time{
+ color: gray;
+}
+
+<!--This exercise showed me that classes can be created in html to call code in css allowing code to be reused instead of having to create new code for each new style, it is a mix and match-->
