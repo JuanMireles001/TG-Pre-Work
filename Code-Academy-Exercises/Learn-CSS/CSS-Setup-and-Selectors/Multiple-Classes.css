@@ -1,0 +1,19 @@
+p {
+     font-family: Arial;
+
+   }
+
+h1{
+ color: maroon;
+
+}
+
+.title{
+ color: blue;
+
+}
+.uppercase{
+ text-transform: uppercase;
+}
+
+<!--This exercise showed me that you can take advantage of using multiple classes to create unique visual combinations for headings etc the only thing that must be added is a space in the html class tag-->
