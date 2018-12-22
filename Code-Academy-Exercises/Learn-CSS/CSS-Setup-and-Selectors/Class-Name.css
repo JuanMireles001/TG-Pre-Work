@@ -1,0 +1,15 @@
+p {
+     font-family: Arial;
+
+   }
+
+h1{
+ color: maroon;
+
+}
+
+.title{
+ color: teal;
+
+}
+<!--This showed me that class names can also be used in CSS as selectors but it must use "." to select it thus allowing visual changes.-->
