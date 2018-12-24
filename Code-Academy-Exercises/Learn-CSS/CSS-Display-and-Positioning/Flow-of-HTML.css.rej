@@ -1,0 +1,3 @@
+diff a/Code-Academy-Exercises/Learn-CSS/CSS-Display-and-Positioning/Flow-of-HTML.css b/Code-Academy-Exercises/Learn-CSS/CSS-Display-and-Positioning/Flow-of-HTML.css	(rejected hunks)
+@@ -0,0 +1 @@
++<!--This section is taught that browser render a webpage from left to right and top to bottom.  and is introducing 5 properties that can effect element positions in the browser.-->
